@@ -1,0 +1,23 @@
+Script : RSS2PHPBB3
+Author : Hudson Atwell
+Email : hudson.atwell@gmail.com (adbox)
+
+
+Other Work by AP:
+BlogSenseWP (automation platform for wordpress) - http://www.blogsense-wp.com
+RSS2MYSQL (xml parsing & rss syndication)- http://www.rss2mysql-feed-randomizer-compiler.com/
+Google Digital Checkout (using Google Checkout for selling ditial items) - http://sell-digital-products.com/
+CronWatch.com (Easy php script cronjobs)
+
+INSTALLATION
+1. set folder /rss2mysql/ into your forum directory. (rename or password protect for security!)
+2. point your browser to www.site.com/forum/rss2mysql 
+3. Fill out details and save. 
+4. Set your cronjob on the file www.site.com/forum/rss2mysql/cron_file.php ( use cronwatch.com if needed).
+
+
+ADDITIONAL NOTES
+RSS2PHPBB3 is designed to autopost content from an rss feed into a specific forum. 
+Script can only be used by forum owner.
+Please contact me for customization jobs.
+See support forums for all other information. 
